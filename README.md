@@ -2,7 +2,9 @@
 ## 基因工程
 - [10502選修生物ch11 5 06基因放大技術 聚合酶連鎖反應PCR二簡](https://www.youtube.com/watch?v=vUxyiAYOh5w) (影片)
   - 何謂 PCR
-- [11 6遺傳工程聚合酶、限制酶、連接酶、重組DNA、細菌的基因轉殖三公](https://www.linkyoutube.com/watch?v=5si_ClkscdI) (影片)
+- [HD16_聚合酶鏈鎖反應00464](https://www.youtube.com/watch?v=vhWlY18IGnk)
+  - 犯罪現場 -> 收集檢體 -> 萃取 DNA -> 第量複製 DNA 樣本，以便於分析
+- [11 6遺傳工程聚合酶、限制酶、連接酶、重組DNA、細菌的基因轉殖三公](https://www.youtube.com/watch?v=5si_ClkscdI) (影片)
 
 ## 分析工具
 - [結合深度學習與基因檢測的DeepVariant](https://yourgene.pixnet.net/blog/post/118252122)
