@@ -17,6 +17,7 @@
   - DNA 的生命藍圖
 - [簡介一代定序---Sanger定序](https://unclegene6666.pixnet.net/blog/post/305966068)
   - DNA 定序片段，到底是如何重建其順序的關鍵說明
+- [【分子生物学动画】Sanger法测序 Sanger双脱氧链终止法](https://www.bilibili.com/video/av45259672/?spm_id_from=333.788.videocard.0)
 - [什麼是單核苷酸多型性 (Single Nucleotide Polymorphism，SNP](https://unclegene6666.pixnet.net/blog/post/308333779)
   - SNP = 生物多樣性
   - SNP v.s. 突變(Mutation)?
