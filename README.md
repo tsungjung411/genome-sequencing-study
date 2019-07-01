@@ -11,6 +11,8 @@
   - DeepVarient v.s. GATK
 
 ## 科普
+- [基因與生物](https://www.youtube.com/watch?v=XDxBTP0Pals
+  - DNA 的生命藍圖
 - [什麼是單核苷酸多型性 (Single Nucleotide Polymorphism，SNP](https://unclegene6666.pixnet.net/blog/post/308333779)
   - SNP = 生物多樣性
   - SNP v.s. 突變(Mutation)?
