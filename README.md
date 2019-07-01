@@ -11,8 +11,10 @@
   - DeepVarient v.s. GATK
 
 ## 科普
-- [基因與生物](https://www.youtube.com/watch?v=XDxBTP0Pals
+- [基因與生物](https://www.youtube.com/watch?v=XDxBTP0Pals)
   - DNA 的生命藍圖
+- [簡介一代定序---Sanger定序](https://unclegene6666.pixnet.net/blog/post/305966068)
+  - DNA 定序片段，到底是如何重建其順序的關鍵說明
 - [什麼是單核苷酸多型性 (Single Nucleotide Polymorphism，SNP](https://unclegene6666.pixnet.net/blog/post/308333779)
   - SNP = 生物多樣性
   - SNP v.s. 突變(Mutation)?
