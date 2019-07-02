@@ -25,7 +25,7 @@
 - 演化：
   - 第一代：
     - 桑格定序法(Sanger Sequencing)，為第二代 NGS 的基礎
-      - [1](https://yourgene.pixnet.net/blog/post/66237085)
+      - [註1](https://yourgene.pixnet.net/blog/post/66237085), [註2](https://www.bilibili.com/video/av45259672/?spm_id_from=333.788.videocard.0)
     - 名詞解釋：
       - PCR: Polymerase Chain Reaction 聚合酶連鎖反應
         - 影片：[10502選修生物ch11 5 06基因放大技術 聚合酶連鎖反應PCR二簡](https://www.youtube.com/watch?v=vUxyiAYOh5w)
