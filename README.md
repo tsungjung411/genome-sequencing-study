@@ -1,6 +1,8 @@
 
 ## 名詞解釋
-- DNA：去氧核醣核酸（染色體上的編碼分子結構）
+- DNA：deoxyribonucleic[di͵ɑksiraɪbonuˋkliɪk] acid, 去氧核醣核酸(繁體), 脱氧核醣核酸(簡體)
+  - 一種生物分子
+  - 染色體上的編碼分子
 - gene：基因（DNA 上特定的片段）
 - sequencing：定序(繁體)，測序(簡體)
   - 簡單講：從 DNA 序列讀出 ATCG 字串
