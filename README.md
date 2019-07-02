@@ -1,16 +1,35 @@
 
 ## 名詞解釋
 - sequencing：定序(繁體)，測序(簡體)
-- bp：base paire 鹼基對
+  - 簡單講：從 DNA 序列讀出 ATCG 字串
+- bp：base paire [鹼基對](https://zh.wikipedia.org/wiki/%E7%A2%B1%E5%9F%BA%E5%AF%B9)
+  - 形成：
+    - 核酸 DNA & RNA 的單體
   - 基本原料：
     - 腺嘌呤（A）（注音：[ㄒㄧㄢˋ ㄆㄧㄠ ㄌㄧㄥˊ](https://www.moedict.tw/~%E8%85%BA%E5%98%8C%E5%91%A4)）
     - 胸腺嘧啶（T）（注音：ㄒㄩㄥ ㄒㄧㄢˋ [ㄇ一ˋ ㄉ一ㄥˋ](https://www.moedict.tw/~%E5%98%A7%E5%95%B6)）
     - 鳥嘌呤（G）（注音：[ㄋㄧㄠˇ ㄆㄧㄠ ㄌㄧㄥˊ](https://www.moedict.tw/~%E9%B3%A5%E5%98%8C%E5%91%A4)）
     - 胞嘧啶（C）（注音：ㄅㄠ [ㄇ一ˋ ㄉ一ㄥˋ](https://www.moedict.tw/~%E5%98%A7%E5%95%B6)）
     - 尿嘧啶（U）。
-- kbp：kilo base pair 千個鹼基對，kbp 縮寫為 kb (不等於 "kilo byte")
+- kbp：kilo base pair 千鹼基對，kbp 簡寫為 kb (不等於 "kilo byte")
+- mbp：mega base pair 兆鹼基對
 - read：an (inferred) sequence of base pairs，一條(推論測得)的鹼基對序列
 - read length：讀長(單位：bp)
+-
+
+## 定序技術
+- 演化：
+  - 第一代：
+    - 桑格定序法(Sanger Sequencing)，為第二代 NGS 的基礎
+      - [1](https://yourgene.pixnet.net/blog/post/66237085)
+    - 名詞解釋：
+      - PCR: Polymerase Chain Reaction 聚合酶連鎖反應
+      - [NTP](https://zh.wikipedia.org/wiki/%E6%A0%B8%E8%8B%B7%E4%B8%89%E7%A3%B7%E9%85%B8): 核苷三磷酸（核苷酸）
+      - dNTP: 去氧核苷三磷酸
+      - [ddNTP](https://zh.wikipedia.org/wiki/%E5%8F%8C%E8%84%B1%E6%B0%A7%E6%A0%B8%E8%8B%B7%E9%85%B8): 雙去氧核苷三磷酸(雙脫氧核苷三磷酸)
+  - 第二代：
+  - 第三代：
+- 考量：通量 / 正確性
 
 ## 基因工程
 - [10502選修生物ch11 5 06基因放大技術 聚合酶連鎖反應PCR二簡](https://www.youtube.com/watch?v=vUxyiAYOh5w) (影片)
