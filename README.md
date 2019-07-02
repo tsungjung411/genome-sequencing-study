@@ -1,5 +1,7 @@
 
 ## 名詞解釋
+- DNA：去氧核醣核酸（染色體上的編碼分子結構）
+- gene：基因（DNA 上特定的片段）
 - sequencing：定序(繁體)，測序(簡體)
   - 簡單講：從 DNA 序列讀出 ATCG 字串
 - bp：base paire [鹼基對](https://zh.wikipedia.org/wiki/%E7%A2%B1%E5%9F%BA%E5%AF%B9)
@@ -57,6 +59,7 @@
   - DeepVarient v.s. GATK
 - [如何利用BWA進行序列比對呢？](https://kknews.cc/zh-tw/news/gbo2ko9.html)
 - [[gutbub] bwa](https://github.com/lh3/bwa)
+- [FASTQ格式](https://zh.wikipedia.org/wiki/FASTQ%E6%A0%BC%E5%BC%8F)
 
 ## 科普
 - [基因與生物](https://www.youtube.com/watch?v=XDxBTP0Pals)
