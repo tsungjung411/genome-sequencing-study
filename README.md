@@ -24,6 +24,7 @@
       - [1](https://yourgene.pixnet.net/blog/post/66237085)
     - 名詞解釋：
       - PCR: Polymerase Chain Reaction 聚合酶連鎖反應
+        - 影片：[10502選修生物ch11 5 06基因放大技術 聚合酶連鎖反應PCR二簡](https://www.youtube.com/watch?v=vUxyiAYOh5w)
       - [NTP](https://zh.wikipedia.org/wiki/%E6%A0%B8%E8%8B%B7%E4%B8%89%E7%A3%B7%E9%85%B8): 核苷三磷酸（核苷酸）
       - dNTP: 去氧核苷三磷酸
       - [ddNTP](https://zh.wikipedia.org/wiki/%E5%8F%8C%E8%84%B1%E6%B0%A7%E6%A0%B8%E8%8B%B7%E9%85%B8): 雙去氧核苷三磷酸(雙脫氧核苷三磷酸)
@@ -31,9 +32,8 @@
   - 第三代：
 - 考量：通量 / 正確性
 
+
 ## 基因工程
-- [10502選修生物ch11 5 06基因放大技術 聚合酶連鎖反應PCR二簡](https://www.youtube.com/watch?v=vUxyiAYOh5w) (影片)
-  - 何謂 PCR
 - [HD16_聚合酶鏈鎖反應00464](https://www.youtube.com/watch?v=vhWlY18IGnk)
   - 犯罪現場 -> 收集檢體 -> 萃取 DNA -> 第量複製 DNA 樣本，以便於分析
 - [11 6遺傳工程聚合酶、限制酶、連接酶、重組DNA、細菌的基因轉殖三公](https://www.youtube.com/watch?v=5si_ClkscdI) (影片)
