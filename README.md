@@ -1,4 +1,11 @@
 
+## 名詞解釋
+- sequencing：定序(繁體)，測序(簡體)
+- bp：base paire 鹼基對
+- kbp：kilo base pair 千個鹼基對，kbp 縮寫為 kb (不等於 "kilo byte")
+- read：an (inferred) sequence of base pairs，一條(推論測得)的鹼基對序列
+- read length：讀長(單位：bp)
+
 ## 基因工程
 - [10502選修生物ch11 5 06基因放大技術 聚合酶連鎖反應PCR二簡](https://www.youtube.com/watch?v=vUxyiAYOh5w) (影片)
   - 何謂 PCR
