@@ -28,7 +28,9 @@
       - [NTP](https://zh.wikipedia.org/wiki/%E6%A0%B8%E8%8B%B7%E4%B8%89%E7%A3%B7%E9%85%B8): 核苷三磷酸（核苷酸）
       - dNTP: 去氧核苷三磷酸
       - [ddNTP](https://zh.wikipedia.org/wiki/%E5%8F%8C%E8%84%B1%E6%B0%A7%E6%A0%B8%E8%8B%B7%E9%85%B8): 雙去氧核苷三磷酸(雙脫氧核苷三磷酸)
+      - [primer](https://zh.wikipedia.org/wiki/%E5%BC%95%E7%89%A9)：DNA 引子，為人工合成的 DNA 片段
   - 第二代：
+      - 次世代定序儀(Next Generation SequencingNGS)
   - 第三代：
 - 考量：通量 / 正確性
 
