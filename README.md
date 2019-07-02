@@ -14,8 +14,10 @@
 - kbp：kilo base pair 千鹼基對，kbp 簡寫為 kb (不等於 "kilo byte")
 - mbp：mega base pair 兆鹼基對
 - read：an (inferred) sequence of base pairs，一條(推論測得)的鹼基對序列
-- read length：讀長(單位：bp)
--
+  - short reads: 短序列讀長
+  - long reads: 長序列讀長
+- read length：讀長(單位：bp)，序列片段長短
+- High-throughput: 高通量
 
 ## 定序技術
 - 演化：
