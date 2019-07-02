@@ -2,6 +2,12 @@
 ## 名詞解釋
 - sequencing：定序(繁體)，測序(簡體)
 - bp：base paire 鹼基對
+  - 基本原料：
+    - 腺嘌呤（A）（注音：[ㄒㄧㄢˋ ㄆㄧㄠ ㄌㄧㄥˊ](https://www.moedict.tw/~%E8%85%BA%E5%98%8C%E5%91%A4)）
+    - 胸腺嘧啶（T）（注音：ㄒㄩㄥ ㄒㄧㄢˋ [ㄇ一ˋ ㄉ一ㄥˋ](https://www.moedict.tw/~%E5%98%A7%E5%95%B6)）
+    - 鳥嘌呤（G）（注音：[ㄋㄧㄠˇ ㄆㄧㄠˋ ㄌㄧㄥˊ](https://www.moedict.tw/~%E9%B3%A5%E5%98%8C%E5%91%A4)）
+    - 胞嘧啶（C）（注音：ㄅㄠ [ㄇ一ˋ ㄉ一ㄥˋ](https://www.moedict.tw/~%E5%98%A7%E5%95%B6)）
+    - 尿嘧啶（U）。
 - kbp：kilo base pair 千個鹼基對，kbp 縮寫為 kb (不等於 "kilo byte")
 - read：an (inferred) sequence of base pairs，一條(推論測得)的鹼基對序列
 - read length：讀長(單位：bp)
