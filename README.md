@@ -17,7 +17,9 @@
   - short reads: 短序列讀長
   - long reads: 長序列讀長
 - read length：讀長(單位：bp)，序列片段長短
-- High-throughput: 高通量
+- high-throughput: 高通量
+
+<br>
 
 ## 定序技術
 - 演化：
@@ -32,11 +34,11 @@
       - [ddNTP](https://zh.wikipedia.org/wiki/%E5%8F%8C%E8%84%B1%E6%B0%A7%E6%A0%B8%E8%8B%B7%E9%85%B8): 雙去氧核苷三磷酸(雙脫氧核苷三磷酸)
       - [primer](https://zh.wikipedia.org/wiki/%E5%BC%95%E7%89%A9)：DNA 引子，為人工合成的 DNA 片段
   - 第二代：
-      - 次世代定序儀(Next Generation SequencingNGS)
+      - 次世代定序儀(Next Generation Sequencing, NGS)
   - 第三代：
 - 考量：
   - 讀長：單次定序所得到的序列長度
-  - 通量：單次定序的序列數量
+  - 通量：單位時間內所能產出的數據量
   - 準確性：讀取序列的準確程度
   - 成本：花費的錢
 
