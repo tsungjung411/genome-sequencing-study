@@ -60,9 +60,26 @@
   - DeepVariant 的原理講解
 - [[精準醫療] Variant Calling 的戰況分析](https://medium.com/@chungtsai/%E7%B2%BE%E6%BA%96%E9%86%AB%E7%99%82-variant-calling-%E7%9A%84%E6%88%B0%E6%B3%81%E5%88%86%E6%9E%90-97e77d0730c8)
   - DeepVarient v.s. GATK
-- [如何利用BWA進行序列比對呢？](https://kknews.cc/zh-tw/news/gbo2ko9.html)
-- [[gutbub] bwa](https://github.com/lh3/bwa)
 - [FASTQ格式](https://zh.wikipedia.org/wiki/FASTQ%E6%A0%BC%E5%BC%8F)
+
+## 分析工具 BWA
+- BWA: Burrow-Wheeler Aligner
+  - 關於：
+    - 一種軟體套件 / 一套演算法，用在「序列比對」上
+    - 將某個 DNA 序列，映射到人類基因體資料庫上，相當於 db.findIndex(dna)
+  - 演算法([參考](https://www.jianshu.com/p/180655da09a7))：
+    - reads < 70bp，使用 BWA-Backtrack
+    - 70bp <= reads < 1Mbp 
+      - 有頻繁的 gaps 時，使用 BWA-SW
+      - 其餘，使用 BWA-MEM (預設使用)
+      - BWA-SW & BWA-MEM 皆支援 long-reads, split alignment
+
+- [序列比对 BWA(Burrows-Wheeler Aligner)](https://www.jianshu.com/p/180655da09a7)
+- [如何利用 BWA 進行序列比對呢？](https://kknews.cc/zh-tw/news/gbo2ko9.html)
+- [[gutbub] BWA 原始碼 (https://github.com/lh3/bwa)](https://github.com/lh3/bwa)
+- [[官網] Burrows-Wheeler Aligner (http://bio-bwa.sourceforge.net/)](http://bio-bwa.sourceforge.net/)
+
+
 
 ## 科普
 - [基因與生物](https://www.youtube.com/watch?v=XDxBTP0Pals)
