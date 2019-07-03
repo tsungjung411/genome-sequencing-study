@@ -64,22 +64,40 @@
 
 ## 分析工具 BWA
 - BWA: Burrow-Wheeler Aligner
-  - 關於：
+  - 使用目的：
     - 一種軟體套件 / 一套演算法，用在「序列比對」上
-    - 將某個 DNA 序列，映射到人類基因體資料庫上，相當於 db.findIndex(dna)
-  - 演算法([參考](https://www.jianshu.com/p/180655da09a7))：
-    - reads < 70bp，使用 BWA-Backtrack
-    - 70bp <= reads < 1Mbp 
-      - 有頻繁的 gaps 時，使用 BWA-SW
-      - 其餘，使用 BWA-MEM (預設使用)
-      - BWA-SW & BWA-MEM 皆支援 long-reads, split alignment
+    - 將定序得到的 reads，比對到人基因體參考序列上
+    - 也就是說，將某個 DNA 序列，映射到人類基因體資料庫上，相當於 db.findIndex(dna)
+  - 演算法：
+    - 有三種：
+      - BWA-BackTrack
+      - BWA-SW
+      - BWA-MEM
+    - 如何選擇([參考](https://www.jianshu.com/p/180655da09a7))：
+      - reads < 70bp，使用 BWA-Backtrack
+      - 70bp <= reads <= 1Mbp 
+        - 有頻繁的 gaps 時，使用 BWA-SW
+        - 其餘，使用 BWA-MEM (預設使用)
+        - BWA-SW & BWA-MEM 皆支援 long-reads, split alignment
+ 
+  - 使用說明：
+    - [BWA 下载、安装與執行](http://www.bioinfo-scrounger.com/archives/181)
+    - [BWA 執行說明](https://kknews.cc/zh-tw/news/gbo2ko9.html)
+    - [BWA 主要參數說明](https://blog.csdn.net/u014182497/article/details/51690341)
 
 - [序列比对 BWA(Burrows-Wheeler Aligner)](https://www.jianshu.com/p/180655da09a7)
 - [如何利用 BWA 進行序列比對呢？](https://kknews.cc/zh-tw/news/gbo2ko9.html)
 - [[gutbub] BWA 原始碼 (https://github.com/lh3/bwa)](https://github.com/lh3/bwa)
 - [[官網] Burrows-Wheeler Aligner (http://bio-bwa.sourceforge.net/)](http://bio-bwa.sourceforge.net/)
 
+<br>
 
+## 分析工具 GATK
+- [【原创】GATK使用方法详解（包含bwa使用）第一部分](http://blog.sina.cn/dpool/blog/s/blog_12d5e3d3c0101qu6e.html)
+- [GATK 之 HaplotypeCaller](http://www.biotrainee.com/thread-1417-1-1.html)
+  - GATK的主要功能其实就是识别变异位点，其他功能都是锦上添花。
+
+<br>
 
 ## 科普
 - [基因與生物](https://www.youtube.com/watch?v=XDxBTP0Pals)
