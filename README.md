@@ -71,3 +71,10 @@
 - [什麼是單核苷酸多型性 (Single Nucleotide Polymorphism，SNP](https://unclegene6666.pixnet.net/blog/post/308333779)
   - SNP = 生物多樣性
   - SNP v.s. 突變(Mutation)?
+
+
+## 其他術語
+- [genome](https://tw.dictionary.search.yahoo.com/search?p=genome): 基因體(繁體) , 基因組(簡體)
+- HGP: Human Genome Project, 人類基因體計劃
+- WGS: Whole Genome Sequencing, 全基因體定序
+- GRC: Genome Reference [Consortium](https://tw.dictionary.search.yahoo.com/search?p=Consortium), 基因體參照序列聯盟
