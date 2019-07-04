@@ -67,6 +67,10 @@
 
 ### 交換資料格式 SAM & BAM & CRAM
 - [常見的Alignment Genomic Data Archive Format](https://weitinglin.com/2016/01/27/sambam-and-cram/)
+  - SAM(Sequence Alignment/Map) 給人類讀的檔案，由 BAM 轉換
+  - BAM(Binary Alignment/Map) 給電腦讀的檔案
+  - CRAM 新格式，改善 SAM 的肥大問題
+- [Sam 和 Bam 文件说明](https://www.jianshu.com/p/9c99e09630da)
 
 
 ## 分析工具 BWA
