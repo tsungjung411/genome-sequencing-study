@@ -58,11 +58,15 @@
 <br>
 
 ## 分析工具
-### 交換資料格式
+### 交換資料格式 FASTA & FASTQ
 - [[NGS]NGS的產物-FASTQ格式介紹](https://welgene.blogspot.com/2012/05/ngsngs-fastq.html)
   - 介紹 FASTA 和 FASTQ 的差異性
 - [[wiki] FASTA格式](https://zh.wikipedia.org/wiki/FASTA%E6%A0%BC%E5%BC%8F)
 - [[wiki] FASTQ格式](https://zh.wikipedia.org/wiki/FASTQ%E6%A0%BC%E5%BC%8F)
+- [FASTQC](https://www.worthfo.com/p/451051/)
+
+### SAM & BAM & CRAM
+- [常見的Alignment Genomic Data Archive Format](https://weitinglin.com/2016/01/27/sambam-and-cram/)
 
 
 ## 分析工具 BWA
@@ -117,6 +121,7 @@
 - [什麼是單核苷酸多型性 (Single Nucleotide Polymorphism，SNP](https://unclegene6666.pixnet.net/blog/post/308333779)
   - SNP = 生物多樣性
   - SNP v.s. 突變(Mutation)?
+- [Hiseq2000測序過程](https://www.twblogs.net/a/5bbd35c62b71776bd30c1b0b/zh-cn)
 
 
 ## 其他術語
