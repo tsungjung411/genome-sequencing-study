@@ -55,12 +55,14 @@
   - 犯罪現場 -> 收集檢體 -> 萃取 DNA -> 第量複製 DNA 樣本，以便於分析
 - [11 6遺傳工程聚合酶、限制酶、連接酶、重組DNA、細菌的基因轉殖三公](https://www.youtube.com/watch?v=5si_ClkscdI) (影片)
 
+<br>
+
 ## 分析工具
-- [結合深度學習與基因檢測的DeepVariant](https://yourgene.pixnet.net/blog/post/118252122)
-  - DeepVariant 的原理講解
-- [[精準醫療] Variant Calling 的戰況分析](https://medium.com/@chungtsai/%E7%B2%BE%E6%BA%96%E9%86%AB%E7%99%82-variant-calling-%E7%9A%84%E6%88%B0%E6%B3%81%E5%88%86%E6%9E%90-97e77d0730c8)
-  - DeepVarient v.s. GATK
-- [FASTQ格式](https://zh.wikipedia.org/wiki/FASTQ%E6%A0%BC%E5%BC%8F)
+### 交換資料格式
+- [[NGS]NGS的產物-FASTQ格式介紹](https://welgene.blogspot.com/2012/05/ngsngs-fastq.html)
+- [[wiki] FASTA格式](https://zh.wikipedia.org/wiki/FASTA%E6%A0%BC%E5%BC%8F)
+- [[wiki] FASTQ格式](https://zh.wikipedia.org/wiki/FASTQ%E6%A0%BC%E5%BC%8F)
+
 
 ## 分析工具 BWA
 - BWA: Burrow-Wheeler Aligner
@@ -97,6 +99,14 @@
 - [GATK 之 HaplotypeCaller](http://www.biotrainee.com/thread-1417-1-1.html)
   - GATK的主要功能其实就是识别变异位点，其他功能都是锦上添花。
 
+<br>
+
+## 分析工具 DeepVariant
+- [結合深度學習與基因檢測的DeepVariant](https://yourgene.pixnet.net/blog/post/118252122)
+  - DeepVariant 的原理講解
+- [[精準醫療] Variant Calling 的戰況分析](https://medium.com/@chungtsai/%E7%B2%BE%E6%BA%96%E9%86%AB%E7%99%82-variant-calling-%E7%9A%84%E6%88%B0%E6%B3%81%E5%88%86%E6%9E%90-97e77d0730c8)
+  - DeepVarient v.s. GATK
+  
 <br>
 
 ## 科普
