@@ -124,3 +124,4 @@
 - HGP: Human Genome Project, 人類基因體計劃
 - WGS: Whole Genome Sequencing, 全基因體定序
 - GRC: Genome Reference [Consortium](https://tw.dictionary.search.yahoo.com/search?p=Consortium), 基因體參照序列聯盟
+- [GC 含量](https://zh.wikipedia.org/wiki/GC%E5%90%AB%E9%87%8F)
