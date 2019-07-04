@@ -65,7 +65,7 @@
 - [[wiki] FASTQ格式](https://zh.wikipedia.org/wiki/FASTQ%E6%A0%BC%E5%BC%8F)
 - [FASTQC](https://www.worthfo.com/p/451051/)
 
-### SAM & BAM & CRAM
+### 交換資料格式 SAM & BAM & CRAM
 - [常見的Alignment Genomic Data Archive Format](https://weitinglin.com/2016/01/27/sambam-and-cram/)
 
 
