@@ -60,6 +60,7 @@
 ## 分析工具
 ### 交換資料格式
 - [[NGS]NGS的產物-FASTQ格式介紹](https://welgene.blogspot.com/2012/05/ngsngs-fastq.html)
+  - 介紹 FASTA 和 FASTQ 的差異性
 - [[wiki] FASTA格式](https://zh.wikipedia.org/wiki/FASTA%E6%A0%BC%E5%BC%8F)
 - [[wiki] FASTQ格式](https://zh.wikipedia.org/wiki/FASTQ%E6%A0%BC%E5%BC%8F)
 
