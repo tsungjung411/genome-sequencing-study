@@ -48,6 +48,12 @@
   - 通量：單位時間內所能產出的數據量（定序速度x定序數量的綜合表現）
   - 準確性：讀取序列的準確程度
   - 成本：花費的錢
+- 流程解說：
+  <br>![](http://img.instask.me/get/http://mmbiz.qpic.cn/mmbiz_png/CPzCjkN0MOeBjqJREs4Wlab9J38JnyFQLTGRVHUfaMSys3Pq3f9fJFEUUwsVBur0TxWsgbib8HG25uzE3wFlHBw/0?wx_fmt=png)
+  <br>取自：https://www.worthfo.com/p/451051/
+  <br>
+  <br>![](https://weitinglindotcom.files.wordpress.com/2016/01/screenshot21.png)
+  <br>取自：https://weitinglin.com/2016/01/27/sambam-and-cram/
 
 
 ## 基因工程
