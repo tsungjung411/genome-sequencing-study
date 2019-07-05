@@ -18,6 +18,7 @@
     - 尿嘧啶（U）。
 - kbp：kilo base pair 千鹼基對，kbp 簡寫為 kb (不等於 "kilo byte")
 - mbp：mega base pair 兆鹼基對
+- gbp：giga base pair 十億鹼基對
 - read：an (inferred) sequence of base pairs，一條(推論測得)的鹼基對序列
   - short reads: 短序列讀長
   - long reads: 長序列讀長
@@ -140,3 +141,12 @@
 - WGS: Whole Genome Sequencing, 全基因體定序
 - GRC: Genome Reference [Consortium](https://tw.dictionary.search.yahoo.com/search?p=Consortium), 基因體參照序列聯盟
 - [GC 含量](https://zh.wikipedia.org/wiki/GC%E5%90%AB%E9%87%8F)
+- [二代測序技術](http://www.zgenebio.com.tw/ngs-274251999020195234502420724120299922151735422.html)
+  - 一次對幾十萬到幾百萬條核酸分子同時進行序列測定
+  - 又稱：深度測序（Deep sequencing）
+- [名詞解釋](http://www.zgenebio.com.tw/ngs-274251999020195234502420724120299922151735422.html)
+  - 全基因組 de novo 測序
+  - 外顯子組
+  - 外顯子組測序
+- [DNA De Novo Sequencing](http://www.yourgene.com.tw/content/messagess/contents/655406000323126764/)
+  - 探究未知物種發現生物多樣性
