@@ -148,5 +148,7 @@
   - 全基因組 de novo 測序
   - 外顯子組
   - 外顯子組測序
+- [Whole-Exome Sequencing](http://www.yourgene.com.tw/content/messagess/contents/655406000262674444)
+  - 臨床診斷與治療決策之明日之星
 - [DNA De Novo Sequencing](http://www.yourgene.com.tw/content/messagess/contents/655406000323126764/)
   - 探究未知物種發現生物多樣性
