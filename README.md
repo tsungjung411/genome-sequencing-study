@@ -125,6 +125,12 @@
   
 <br>
 
+## 其他工具
+- [Nextflow是啥？](https://ithelp.ithome.com.tw/articles/10205392?sc=rss.qu)
+  - [開始學習 Groovy 程式語言](https://ithelp.ithome.com.tw/articles/10157426)
+  
+<br>
+
 ## 科普
 - [基因與生物](https://www.youtube.com/watch?v=XDxBTP0Pals)
   - DNA 的生命藍圖
