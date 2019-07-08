@@ -125,9 +125,10 @@
   
 <br>
 
-## 其他工具
-- [Nextflow是啥？](https://ithelp.ithome.com.tw/articles/10205392?sc=rss.qu)
+## 其他工具 Nextflow
+- [Nextflow 是啥？](https://ithelp.ithome.com.tw/articles/10205392?sc=rss.qu)
   - [開始學習 Groovy 程式語言](https://ithelp.ithome.com.tw/articles/10157426)
+- [Nextflow 官網](https://www.nextflow.io/docs/latest/getstarted.html#installation)
   
 <br>
 
