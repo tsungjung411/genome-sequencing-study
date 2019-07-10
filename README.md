@@ -159,3 +159,4 @@
   - 臨床診斷與治療決策之明日之星
 - [DNA De Novo Sequencing](http://www.yourgene.com.tw/content/messagess/contents/655406000323126764/)
   - 探究未知物種發現生物多樣性
+- [遺傳學術語](https://blog.xuite.net/roy.isbest/royisbest/6054546)
